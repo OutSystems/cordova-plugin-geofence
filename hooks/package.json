@@ -2,7 +2,7 @@
   "dependencies": {
     "xcode":"^0.8.3",
     "xmldom":"0.1.15",
-    "xmlbuilder": "2.2.1",
+    "xmlbuilder": "2.6.5",
     "util-deprecate": "1.0.0",
     "stream-buffers": "~0.2.3",
     "simple-plist": "0.0.4",
